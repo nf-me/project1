@@ -90,10 +90,8 @@ Data analysis includes visualizations of age distribution, burnout rates, sleep 
 
 References to relevant research articles and sources are provided for further reading and citation.
 
-- Alpass, F., Flett, R., Humphries, S., Massey, C., Morriss, S., & Long, N. (2004). Stress in Dairy Farming and the Adoption of New Technology. International Journal Of Stress Management, 11(3), 270-281.
 - Ang, H. (2010). Occupational stress among the New Zealand farmers: A review. Labour, Employment And Work In New Zealand.
 - Åkerstedt, T., Kecklund, G., & Axelsson, J. (2007). Impaired sleep after bedtime stress and worries. Biological Psychology, 76(3), 170-173.
-- Bakker, A., & Demerouti, E. (2007). The Job Demands‐Resources model: state of the art. Journal Of Managerial Psychology, 22(3), 309-328.
 - Bennett, K. (2016). An Exploratory Study of the effects of Stress and Fatigue on Irish Farm Safety (Higher Diploma). DBS School.
 - CDC. (2016). Morbidity and Mortality Weekly Report. Centres for Disease Control and Prevention.
 - Leonard, J. (2015). Stress Management in Farming in Ireland. Nuffield Ireland.
